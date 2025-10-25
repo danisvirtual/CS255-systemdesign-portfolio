@@ -15,7 +15,7 @@ It includes two major projects completed during the course, which demonstrate my
 ### **Project One – Business Requirements Document (BRD)**
 The Business Requirements Document defines the main goals and functions of the DriverPass system, based on client interviews and user needs. It outlines how the system should support scheduling lessons, managing users, and providing online driving test preparation.
 
-**File:** `CS 255 Business Requirements Document.docx`
+**File:** `CS 255_BRD_ProjectOne_DMitchell.docx`
 
 ---
 
