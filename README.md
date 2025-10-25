@@ -66,4 +66,3 @@ It demonstrates skills in:
 - Requirements gathering  
 - UML diagramming  
 - Communication of technical designs
-- 
